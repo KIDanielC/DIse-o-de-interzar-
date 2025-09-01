@@ -1,7 +1,7 @@
-#Proyectos de Desarrollo – Daniel Rodríguez
+## Proyectos de Desarrollo – Daniel Rodríguez
 Este repositorio contiene una serie de ideas de aplicaciones móviles ideales para desarrolladores en etapa de aprendizaje o para quienes desean reforzar conceptos clave en programación, diseño de interfaces y manejo de datos.
 
-#1. Lista de Tareas (To-Do List)
+## 1. Lista de Tareas (To-Do List)
 Funciones principales:
 
 Crear, editar y eliminar tareas.
@@ -13,7 +13,7 @@ Almacenamiento local.
 Extras recomendados:
 
 Uso de SQLite o SharedPreferences para persistencia de datos.
-#2. Calculadora Básica
+## 2. Calculadora Básica
 Funciones principales:
 
 Suma, resta, multiplicación y división.
@@ -25,7 +25,7 @@ Manejo de eventos.
 Extras
 
 Historial de operaciones.
-#3. Conversor de Unidades o Monedas
+## 3. Conversor de Unidades o Monedas
 Funciones principales:
 
 Conversión entre kilómetros/millas, Celsius/Fahrenheit o monedas.
@@ -37,7 +37,7 @@ Diseño limpio y funcional.
 Extras recomendados:
 
 Integración con API para tasas de cambio en tiempo real.
-#4. Agenda de Contactos
+## 4. Agenda de Contactos
 Funciones principales:
 
 Almacenamiento de nombre, teléfono y correo electrónico.
@@ -49,7 +49,7 @@ Persistencia eficiente.
 Extras recomendados:
 
 Búsqueda avanzada y filtros personalizados.
-#5. App de Frases Motivacionales
+## 5. App de Frases Motivacionales
 Funciones principales:
 
 Mostrar una frase aleatoria al abrir la aplicación.
